@@ -20,4 +20,4 @@ Geographical Distribution: An interactive world map visualizes sales footprints 
 
 The dashboard enables stakeholders to monitor business performance, identify top-performing products and customers, and detect areas of loss—all in real-time. It leverages dynamic filtering by year, enhancing the decision-making process through insightful data visualization.
 
-Dashboard: [Dashboard Preview](https://github.com/Mayank392/Global-Superstore-Sales-Dashboard/blob/main/Sales_powerbi.png)
+Dashboard: ![Dashboard Preview](https://github.com/Mayank392/Global-Superstore-Sales-Dashboard/blob/main/Sales_powerbi.png)
